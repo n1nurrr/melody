@@ -92,6 +92,9 @@ body{
 .counter-arrow-down{
     transform:rotateX(180deg);
 }
+path.current-floor{
+    opacity: 1;
+}
 .main-title{
     margin: 0px;
     font-family: "Bebas Neue", sans-serif;
